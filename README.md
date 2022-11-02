@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=jenilgandhi2111)
 
-I am currently a student at Dharmsinh Desai University Nadiad India. I love making web apps, deep learning models.
+I am currently a student at Dharmsinh Desai University Nadiad India. I love making web apps, deep learning models, rapid APIs, distributed systems and a lot more related to tech.
 
 I try to focus on "attention to detail".
 
