@@ -16,7 +16,7 @@ I try to focus on "attention to detail".
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on academics;
+- 👨🏻‍💻 I’m currently working on Remote Sensing;
 - 🚀 I’m currently learning caching using redis;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: jenilgandhi2111@gmail.com;
